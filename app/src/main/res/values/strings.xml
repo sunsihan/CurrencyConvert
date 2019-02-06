@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Crypto-Currency</string>
+    <string name="USD">USD</string>
+    <string name="BTC">BTC</string>
+    <string name="DOGE">DOGE</string>
+    <string name="From">FROM</string>
+    <string name="To">TO</string>
+    <string name="refresh">REFRESH NEWEST CURRENCY</string>
+</resources>
