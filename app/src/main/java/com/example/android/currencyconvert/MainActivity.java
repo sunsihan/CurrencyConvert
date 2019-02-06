@@ -245,7 +245,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-//API retrive---udacity find the code
+//API retrive---failed
 
 //private String TAG = MainActivity.class.getSimpleName();
 //public Void getCurrency(Integer view) throws JSONException {
